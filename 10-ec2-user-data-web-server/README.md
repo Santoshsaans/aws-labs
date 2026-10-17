@@ -24,7 +24,7 @@ Deployed a simple web server using \*\*EC2 User Data\*\* instead of configuring 
 
 
 
-\## Files in this folder
+
 
 
 
